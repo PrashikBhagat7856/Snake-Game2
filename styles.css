@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    border: solid 5px red;
+    background-image: url(https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544330/capsule_616x353.jpg?t=1702388374) ; background-position: center; background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+canvas {
+    border: solid 2px red;
+}
